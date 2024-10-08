@@ -1,0 +1,7 @@
+{
+    "require": {
+        "setasign/fpdf": "^1.8",
+        "monolog/monolog": "^3.7",
+        "phpoffice/phpspreadsheet": "^2.2"
+    }
+}
